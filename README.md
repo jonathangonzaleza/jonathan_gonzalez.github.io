@@ -1,8 +1,9 @@
 ## Titulo
 Prueba Módulo 1: Curriculum Vitae
 
-Repositorio: https://github.com/Danipazelizondo/danipazelizondo.github.io#
-Github Pages: https://danipazelizondo.github.io/
+* [Link al Repositorio](https://github.com/Danipazelizondo/danipazelizondo.github.io#)
+* [Link a Githuh Pages](https://danipazelizondo.github.io/)
+
 
 ## Fork a 2 proyectos
 
