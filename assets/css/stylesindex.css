@@ -21,6 +21,11 @@ body {
     font-weight: 400;
     font-style: normal;
 }
+.hind-madurai-semi-regular {
+    font-family: "Hind Madurai", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
 
 .hind-madurai-medium {
     font-family: "Hind Madurai", sans-serif;
@@ -43,13 +48,22 @@ body {
 .navbar-brand{
     width: 100px;
 }
+.navbar-brand img{
+    width:70px ;
+    height: 70px;
+    /* shape-rendering: 56; */
+    /* aspect-ratio: auto 56/100; */
+}
+
+
 
 /* Resume-Section */
 #Resume-Section {
-    background-image: url("../images/BGResume3.PNG");
+    background-image: url("../images/18697.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
+
 }
 
 /* Sección Mi experiencia Profesional */
